@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+Use this as a boiler template for EDS Authoring, connected to GDrive Docs under folder same name as repo
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
